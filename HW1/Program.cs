@@ -49,7 +49,7 @@ namespace CommandLineCalculator
                         Console.WriteLine("Invalid numbers provided");
                     }
                 }
-                // TODO: Implement subtract, multiply, divide operations
+            
             }
         }
     }
