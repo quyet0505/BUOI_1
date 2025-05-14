@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\BUOI_1\HelloworldApp\bin\Debug\net9.0\HelloWorldApp.exe
+C:\Users\Admin\Desktop\BUOI_1\HelloworldApp\bin\Debug\net9.0\HelloWorldApp.deps.json
+C:\Users\Admin\Desktop\BUOI_1\HelloworldApp\bin\Debug\net9.0\HelloWorldApp.runtimeconfig.json
+C:\Users\Admin\Desktop\BUOI_1\HelloworldApp\bin\Debug\net9.0\HelloWorldApp.dll
+C:\Users\Admin\Desktop\BUOI_1\HelloworldApp\bin\Debug\net9.0\HelloWorldApp.pdb
+C:\Users\Admin\Desktop\BUOI_1\HelloworldApp\obj\Debug\net9.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\BUOI_1\HelloworldApp\obj\Debug\net9.0\HelloWorldApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\BUOI_1\HelloworldApp\obj\Debug\net9.0\HelloWorldApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\BUOI_1\HelloworldApp\obj\Debug\net9.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BUOI_1\HelloworldApp\obj\Debug\net9.0\HelloWorldApp.dll
+C:\Users\Admin\Desktop\BUOI_1\HelloworldApp\obj\Debug\net9.0\refint\HelloWorldApp.dll
+C:\Users\Admin\Desktop\BUOI_1\HelloworldApp\obj\Debug\net9.0\HelloWorldApp.pdb
+C:\Users\Admin\Desktop\BUOI_1\HelloworldApp\obj\Debug\net9.0\HelloWorldApp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\BUOI_1\HelloworldApp\obj\Debug\net9.0\ref\HelloWorldApp.dll
